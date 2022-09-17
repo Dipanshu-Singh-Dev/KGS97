@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KGS97
-- 👀 I’m interested in Learning how to make and run my own social media app.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at shivtandav007@gmail.com
 
 <!---
