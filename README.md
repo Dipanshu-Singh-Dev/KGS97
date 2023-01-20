@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Dipanshu Singh.
 - 🌱 I’m currently learning Web Development.
-- 📫 Reach me at shivtandav007@gmail.com.
+- 📫 Reach me at work.dipanshu.singh@gmail.com.
